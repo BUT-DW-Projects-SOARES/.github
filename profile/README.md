@@ -33,7 +33,6 @@ Passionné par le **développement web** et le **design UI/UX**, je construis de
 - 🎓 En formation BUT MMI — Université de Strasbourg
 - 💻 Je développe des projets web fullstack
 - 🎨 J'explore le design d'interfaces centrées utilisateur
-- 🔍 En recherche de stage (avril – juin 2026)
 
 ---
 
