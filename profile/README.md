@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) # Salut, moi c'est Daniels 👋 !
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Salut, moi c'est Daniels 👋 !
 =============================================================================================================================  
 
 Étudiant en **BUT MMI** (Métiers du Multimédia et de l'Internet) à l'Université de Strasbourg.
