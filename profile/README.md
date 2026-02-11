@@ -18,6 +18,7 @@ Passionné par le **développement web** et le **design UI/UX**, je construis de
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![Twig](https://img.shields.io/badge/Twig-bacf29?style=flat&logo=symfony&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Outils**
 
@@ -39,3 +40,7 @@ Passionné par le **développement web** et le **design UI/UX**, je construis de
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniels-soares67/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daniels-soares67@hotmail.com)
+
+
+
+
