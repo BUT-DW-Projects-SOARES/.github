@@ -20,6 +20,7 @@ Passionné par le **développement web** et le **design UI/UX**, je construis de
 ![Twig](https://img.shields.io/badge/Twig-bacf29?style=flat&logo=symfony&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 
 **Outils**
 
